@@ -1,2 +1,2 @@
-# PRODIGY_WD_01
+# Landing_page
 Responsive Landing Page using html , css &amp; js
